@@ -12,3 +12,6 @@
 /.nova
 /.vscode
 /.zed
+/bootstrap/cache/*.php
+/storage/logs/*.log
+/storage/views/*.php
